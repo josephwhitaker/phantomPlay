@@ -1,0 +1,8 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "zombie": "2.0.0-alpha11"
+  }
+}
